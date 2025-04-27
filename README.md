@@ -22,10 +22,10 @@
 <table align="center" border="0" cellpadding="10" cellspacing="0" >
   <tr>
     <td align="center" valign="top" >
-      <img width="390" src="https://streak-stats.demolab.com/?user=DileepGhanta&count_private=true&theme=react&border_radius=10&v=1" alt="streak stats"/>
+      <img width="390" src="https://streak-stats.demolab.com/?user=DileepGhanta&count_private=true&theme=react&border_radius=10&v=2" alt="streak stats"/>
     </td>
     <td align="center" valign="top">
-      <img width="390" src="https://github-readme-stats.vercel.app/api?username=DileepGhanta&show_icons=true&theme=react&rank_icon=github&border_radius=10&v=1" alt="readme stats"/>
+      <img width="390" src="https://github-readme-stats.vercel.app/api?username=DileepGhanta&show_icons=true&theme=react&rank_icon=github&border_radius=10&v=2" alt="readme stats"/>
     </td>
   </tr>
   <tr>
