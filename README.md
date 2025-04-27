@@ -1,7 +1,7 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=DileepGhanta&label=Profile%20views&color=0e75b6&style=flat" alt="DileepGhanta"/>
   &nbsp;
-  <img src="https://git-hub-online-status.vercel.app/ping" width="1" height="1" alt="." />
+  <img src="https://git-hub-online-status.vercel.app/ping" width="0" height="0" alt="" style="visibility: hidden; position: absolute;"/>
   <img src="https://img.shields.io/endpoint?url=https://git-hub-online-status.vercel.app/status-badge" alt="status"/>
 </p>
 
